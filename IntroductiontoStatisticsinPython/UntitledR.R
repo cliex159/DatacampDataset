@@ -1,6 +1,0 @@
-download.file('https://assets.datacamp.com/production/repositories/5786/datasets/49f6356966016c70a9f63a0474942675377bdcf2/food_consumption.csv',"food_consumption.csv")
-download.file('https://assets.datacamp.com/production/repositories/5786/datasets/db3f4e8c9d708fc3b8dfea51d0fdf21d693d2be3/amir_deals.csv',"amir_deals.csv")
-download.file('https://docs.google.com/spreadsheets/d/e/2PACX-1vTOZd1ME-yR1IzYZdUL1yLnsfd-o5qRRapjClZuuh3z3clXzmu5i7e01CE3mrqgDHZTyJC-chEXc7HN/pub?gid=1180898266&single=true&output=csv',"restaurant_groups.csv")
-download.file('https://docs.google.com/spreadsheets/d/e/2PACX-1vTOZd1ME-yR1IzYZdUL1yLnsfd-o5qRRapjClZuuh3z3clXzmu5i7e01CE3mrqgDHZTyJC-chEXc7HN/pub?gid=1654021855&single=true&output=csv',"all_deals.csv")
-download.file('https://assets.datacamp.com/production/repositories/5786/datasets/c3248c4db9de555010a360aabcb45894d3115bdd/world_happiness.csv',"world_happiness.csv")
-download.file('https://docs.google.com/spreadsheets/d/e/2PACX-1vTOZd1ME-yR1IzYZdUL1yLnsfd-o5qRRapjClZuuh3z3clXzmu5i7e01CE3mrqgDHZTyJC-chEXc7HN/pub?gid=715035867&single=true&output=csv',"world_happiness.csv")
